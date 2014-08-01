@@ -1,0 +1,5 @@
+<host>127.0.0.1</host>
+<port>5000</port>
+<videodev>/dev/video1</videodev>
+<width>640</width>
+<height>480</height>
